@@ -15,3 +15,4 @@ JavaScript
 ### Live Site
 
 ### Licence
+This project is under the [MIT] (LICENSE) licence
