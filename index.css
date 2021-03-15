@@ -35,3 +35,7 @@ label {
 input {
     margin-bottom:20px;
 }
+.income {
+    position: relative;
+    text-align: center;
+}
